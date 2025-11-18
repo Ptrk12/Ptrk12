@@ -12,8 +12,7 @@ I'm a seasoned **Backend Developer** specializing in robust, scalable web applic
 
 ### 💡 
 
-My specialization lies in ASP.NET, but I always choose the **best tool for the task at hand**. Depending on the project's requirements—whether it demands high performance, quick automation, or specific platform integrations—I am ready to utilize other programming languages to guarantee the most effective and efficient solution.
-
+My specialization lies in ASP.NET, but I always choose the **best tool for the task at hand**. Depending on the project's requirements—whether it demands high performance, quick automation, or specific platform integrations. I am ready to utilize other programming languages to guarantee the most effective and efficient solution.
 
 
 ### ☁️ Cloud & Data Expertise
