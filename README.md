@@ -18,12 +18,6 @@ My solutions are built for the future, leveraging the power of **Azure** for sea
 
 I have strong command over database architecture, feeling equally comfortable with both relational and non-relational data stores. My primary expertise lies in **MS SQL Server**, focusing on optimization, performance tuning, and complex query design.
 
-| Area | Key Technologies |
-| :--- | :--- |
-| **Backend** | ASP.NET Core, C# |
-| **Cloud** | Azure Services (App Services, Functions, SQL DB) |
-| **Data** | MS SQL Server, NoSQL Concepts |
-| **DevOps** | CI/CD, Git |
 
 ### 🧠 Driven by Ambition & AI
 
@@ -32,12 +26,3 @@ I am a highly **ambitious** and **results-oriented** developer with a proven tra
 To maintain peak efficiency, I strategically integrate **Artificial Intelligence** tools (like large language models) into my daily workflow. This approach significantly boosts my productivity, accelerates complex refactoring tasks, and helps me explore creative coding patterns faster.
 
 ---
-
-### 📬 Let's Connect!
-
-If you're looking for an ambitious backend expert who delivers quality code and scalable cloud solutions, feel free to reach out!
-
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio/Website:** [Your Personal Website URL]
-
-[Add Badges here for technologies like ASP.NET, C#, Azure, SQL using sites like Shields.io]
