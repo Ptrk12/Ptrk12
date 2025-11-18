@@ -12,7 +12,7 @@ I'm a seasoned **Backend Developer** specializing in robust, scalable web applic
 
 ### 💡 Polyglot Approach
 
-While my core expertise is rooted in the ASP.NET environment, I maintain a **polyglot mindset**. I am a firm believer in using the right tool for the job. Depending on project needs—be it performance, quick scripting, or specific integrations—I readily utilize other programming languages to ensure the most effective and efficient solution.
+While my core expertise is rooted in the ASP.NET environment, I maintain a **polyglot mindset**. I am a firm believer in using the right tool for the job. Depending on project needs be it performance, quick scripting, or specific integrations I readily utilize other programming languages to ensure the most effective and efficient solution.
 
 
 
@@ -20,7 +20,7 @@ While my core expertise is rooted in the ASP.NET environment, I maintain a **pol
 
 My solutions are built for the future, leveraging the power of **Azure** for seamless cloud integration, deployment, and services.
 
-I have strong command over database architecture, feeling equally comfortable with both relational and non-relational data stores. My primary expertise lies in **MS SQL Server**, focusing on optimization, performance tuning, and complex query design.
+I have strong command over database architecture, feeling equally comfortable with both relational and non relational data stores. My primary expertise lies in **MS SQL Server**, focusing on optimization, performance tuning, and complex query design.
 
 
 ### 🧠 Driven by Ambition & AI
