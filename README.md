@@ -10,6 +10,10 @@
 
 I'm a seasoned **Backend Developer** specializing in robust, scalable web applications. My professional experience is deeply rooted in the **ASP.NET** ecosystem, delivering high-performance solutions from concept to deployment. I thrive on solving complex problems and building efficient systems that power the digital world.
 
+### 💡 Polyglot Approach
+
+While my core expertise is rooted in the ASP.NET environment, I maintain a **polyglot mindset**. I am a firm believer in using the right tool for the job. Depending on project needs—be it performance, quick scripting, or specific integrations—I readily utilize other programming languages to ensure the most effective and efficient solution.
+
 
 
 ### ☁️ Cloud & Data Expertise
