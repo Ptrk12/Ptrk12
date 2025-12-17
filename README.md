@@ -16,10 +16,11 @@ My specialization lies in ASP.NET, but I always choose the **best tool for the t
 
 
 ### ☁️ Cloud & Data Expertise
+My solutions are built for the future, leveraging the power of Azure for seamless cloud integration, deployment, and services.
 
-My solutions are built for the future, leveraging the power of **Azure** for seamless cloud integration, deployment, and services.
+I have a strong command over database architecture, feeling equally comfortable with both relational and non-relational data stores. My primary expertise lies in **MS SQL Server** for complex query design and performance tuning, while I utilize **Azure Cosmos DB** for scalable, globally distributed **NoSQL** solutions.
 
-I have strong command over database architecture, feeling equally comfortable with both relational and non relational data stores. My primary expertise lies in **MS SQL Server**, focusing on optimization, performance tuning, and complex query design.
+Scripting & Automation Beyond my core stack, I possess functional proficiency in **Python**. I utilize it primarily for scripting, task automation, and lightweight data processing to streamline development workflows.
 
 
 ### 🧠 Driven by Ambition & AI
