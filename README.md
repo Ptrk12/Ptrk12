@@ -12,21 +12,19 @@ I'm a seasoned **Backend Developer** specializing in robust, scalable web applic
 
 ### 💡 
 
-My specialization lies in ASP.NET, but I always choose the **best tool for the task at hand**. Depending on the project's requirements—whether it demands high performance, quick automation, or specific platform integrations. I am ready to utilize other programming languages to guarantee the most effective and efficient solution.
+My specialization lies in ASP.NET, but I always choose the **best tool for the task at hand**. Depending on the project's requirements whether it demands high performance, quick automation, or specific platform integrations. I am ready to utilize other programming languages to guarantee the most effective and efficient solution.
 
 
 ### ☁️ Cloud & Data Expertise
-My solutions are built for the future, leveraging the power of Azure for seamless cloud integration, deployment, and services.
+I have a strong command over database architecture, feeling equally comfortable with both relational and non-relational data stores. I specialize in T-SQL development within MS SQL Server environments, focusing on complex query design and performance tuning, while utilizing Azure Cosmos DB for scalable, globally distributed NoSQL solutions.
 
-I have a strong command over database architecture, feeling equally comfortable with both relational and non-relational data stores. My primary expertise lies in **MS SQL Server** for complex query design and performance tuning, while I utilize **Azure Cosmos DB** for scalable, globally distributed **NoSQL** solutions.
-
-Scripting & Automation Beyond my core stack, I possess functional proficiency in **Python**. I utilize it primarily for scripting, task automation, and lightweight data processing to streamline development workflows.
+I possess functional proficiency in **Python**. I utilize it primarily for scripting, task automation, and lightweight data processing to streamline development workflows.
 
 
 ### 🧠 Driven by Ambition & AI
 
 I am a highly **ambitious** and **results-oriented** developer with a proven track record of rapid problem-solving. When faced with a challenge, I focus on delivering optimal and timely solutions.
 
-To maintain peak efficiency, I strategically integrate **Artificial Intelligence** tools (like large language models) into my daily workflow. This approach significantly boosts my productivity, accelerates complex refactoring tasks, and helps me explore creative coding patterns faster.
+To maintain peak efficiency, I strategically integrate **Artificial Intelligence** tools into my daily workflow. This approach significantly boosts my productivity, accelerates complex refactoring tasks, and helps me explore creative coding patterns faster.
 
 ---
